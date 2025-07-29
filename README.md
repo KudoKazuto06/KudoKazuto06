@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **springboot, AI**
 
+- 📜 I'm currently pursuing a degree **Honors of Computer Science - Artificial Intelligence, Minor in Statistics**
+
 - 👯 I’m looking to collaborate on **full-stack and research**
 
 - 💬 Ask me about **react**
