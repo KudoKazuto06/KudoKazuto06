@@ -9,6 +9,7 @@
 - 📫 How to reach me **tomnguyen300506@gmail.com**  
 - ⚡ Fun fact **I think I am funny**  
 
+---
 
 <h3 align="left">⚙️ Technical Skills & Technologies </h3>
 <h4 align="left">💻 Programming Languages: </h4>
@@ -115,7 +116,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://insomnia.rest/">
-    <img src="https://images.seeklogo.com/logo-png/39/2/insomnia-logo-png_seeklogo-398689.png" width="40" height="40"/>
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" width="40" height="40"/>
   </a>
 </p>
 
@@ -184,6 +185,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="left">🤝 Connect with me: </h3>
 <p align="left" style="font-size:14px; max-width:600px; line-height:1.5;">
@@ -193,20 +195,11 @@
 <ul style="list-style:none; padding-left:0; font-size:14px; max-width:600px;">
   <li><strong>Full Name:</strong> Công Thịnh Nguyễn Tommy </li>
   <li><strong>GitHub:</strong> <a href="https://github.com/KudoKazuto06" target="_blank">https://github.com/KudoKazuto06</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cong-thinh-nguyen-95b2502b1/" target="_blank">https://www.linkedin.com/in/cong-thinh-nguyen-95b2502b1/</a></li>
   <li><strong>Email:</strong> <a href="mailto:tomnguyen300506@gmail.com">tomnguyen300506@gmail.com</a></li>
   <li><strong>School Email:</strong> <a href="mailto:congthin@ualberta.ca">congthin@ualberta.ca</a></li>
-  <li><strong>Phone:</strong> +1 (825) 888-6305</li>
+  <li><strong>Phone:</strong> +1 (825) 888-6305 | +84 90 676 3305 </li>
   <li><strong>Address:</strong> 8621 112 St NW, Edmonton, AB T6G 1T1, Canada</li>
 </ul>
 
-<p align="left">
-  <a href="https://github.com/tommynguyen" target="_blank" style="margin-right:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/tommynguyen" target="_blank" style="margin-right:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tomnguyen300506@gmail.com" target="_blank" style="margin-right:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" alt="Email"/>
-  </a>
-</p>
+---
