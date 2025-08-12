@@ -164,6 +164,9 @@
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width="80" height="40"/>
   </a>
+  <a href="https://www.sourcetreeapp.com/">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" width="40" height="40">
+  </a>
 </p>
 
 <h4 align="left">🛠️ Developer Tools:</h4>
