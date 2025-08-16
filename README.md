@@ -199,8 +199,8 @@
   <li><strong>Full Name:</strong> Công Thịnh Nguyễn Tommy </li>
   <li><strong>GitHub:</strong> <a href="https://github.com/KudoKazuto06" target="_blank">https://github.com/KudoKazuto06</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cong-thinh-nguyen-95b2502b1/" target="_blank">https://www.linkedin.com/in/cong-thinh-nguyen-95b2502b1/</a></li>
-  <li><strong>Email:</strong> <a href="mailto:tomnguyen300506@gmail.com">tomnguyen300506@gmail.com</a></li>
-  <li><strong>School Email:</strong> <a href="mailto:congthin@ualberta.ca">congthin@ualberta.ca</a></li>
+  <li><strong>Email:</strong> <a href="https://mail.google.com/mail/?view=cm&to=tomnguyen300506@gmail.com">tomnguyen300506@gmail.com</a></li>
+  <li><strong>School Email:</strong> <a href="https://mail.google.com/mail/?view=cm&to=congthin@ualberta.ca">congthin@ualberta.ca</a></li>
   <li><strong>Phone:</strong> +1 (825) 888-6305 | +84 90 676 3305 </li>
   <li><strong>Address:</strong> 8621 112 St NW, Edmonton, AB T6G 1T1, Canada</li>
 </ul>
