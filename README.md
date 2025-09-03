@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tommy Nguyen</h1>
-<h3 align="center">A software developer and researcher.</h3>
+<h3 align="center">A software developer and AI researcher</h3>
 
-- 🔭 I’m currently working on **a sental project**  
-- 🌱 I’m currently learning **Spring Boot, AI**  
+- 🔭 I’m currently working on **a Campus-Resource Management project** and developing **a biofriendly machine** (Be normal to talk and share ideas with me)  
+- 🌱 I’m diving deeper into **Applied Statistics** and **Artificial Intelligence Research**  
 - 📜 I'm currently pursuing a degree **Honors of Computer Science - Artificial Intelligence, Minor in Statistics**  
-- 👯 I’m looking to collaborate on **full-stack and research**  
-- 💬 Ask me about **React**  
-- 📫 How to reach me **tomnguyen300506@gmail.com**  
-- ⚡ Fun fact **I think I am funny**  
+- 👯 I’m looking to collaborate on **full-stack projects, AI/ML research, and open-source contributions**  
+- 💬 Ask me about **full-stack development, or getting started with AI**  
+- 📫 How to reach me **thinh.tommy305@gmail.com**
+- ⚡ Fun fact **My code runs… eventually 😅**  
 
 ---
 
