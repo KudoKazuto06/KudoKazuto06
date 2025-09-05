@@ -168,6 +168,12 @@
   <a href="https://www.sourcetreeapp.com/">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/313_Sourcetree_logo-512.png" width="40" height="40">
   </a>
+  <a href="https://slack.com/intl/fr-ca/">
+    <img src="https://cdn-icons-png.flaticon.com/256/3800/3800024.png" width="40" height="40">
+  </a>
+  <a href="https://www.notion.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="40" height="40">
+  </a>
 </p>
 
 <h4 align="left">🛠️ Developer Tools:</h4>
